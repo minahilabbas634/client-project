@@ -1,0 +1,6 @@
+{
+  "name": "Ittifaq Handicraft — Premium Pakistani Shawls",
+  "description": "Explore authentic men's and women's Pakistani shawls with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
